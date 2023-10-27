@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "137990031214",
+    "project_id": "flutter-test-cf2d0",
+    "storage_bucket": "flutter-test-cf2d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137990031214:android:2ee6f491a3c081c7a1237f",
+        "android_client_info": {
+          "package_name": "com.example.goodcoffee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqPwvzSOyVizXIl6MiV5mwro1Adx8qrPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
